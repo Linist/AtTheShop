@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="velkommen">Velkommen</string>
+    <string name="support">Support</string>
+    <string name="kodeord">Kodeord</string>
+    <string name="log_ind">Log Ind</string>
+    <string name="menu">Menu</string>
+    <string name="hej_jens">Hej Jens</string>
+    <string name="todo">TODO</string>
+    <string name="autohj_lp">Autohjælp</string>
+    <string name="ring_til_autohj_lp">Ring til Autohjælp</string>
+    <string name="ring_til_din_mekaniker">Ring til din mekaniker</string>
+    <string name="mekaniker">Mekaniker</string>
+    <string name="tilbage_til_login">Tilbage til Login</string>
+    <string name="log_ud">LOG UD</string>
+</resources>
